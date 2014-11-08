@@ -15,7 +15,7 @@ public class EquationSolver {
      *
      * Main method.
      * 
-     * @param args
+     * @param args no arguments necessary
      */
     public static void main(final String[] args) {
         final ArrayList<String> equations = new ArrayList<>();
